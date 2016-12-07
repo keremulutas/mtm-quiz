@@ -1,0 +1,21 @@
+{
+    "name": "mtm-quiz",
+    "version": "0.0.0",
+    "homepage": "https://github.com/keremulutas/mtm-quiz",
+    "authors": [
+        "Kerem Ulutaş <kerem@ulutas.gen.tr>"
+    ],
+    "moduleType": [
+        "amd"
+    ],
+    "license": "GPL-3.0",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "jquery": "~3.1.1",
+        "angular": "~1.5.9"
+    }
+}
