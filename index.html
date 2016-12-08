@@ -1,15 +1,25 @@
 <!doctype html>
-<html ng-app>
+<html ng-app="mtmApp">
 <head>
-    <script src="js/bower_components/angular/angular.min.js"></script>
-    <script src="js/app.js"></script>
+    <script type="text/javascript" src="js/bower_components/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bower_components/lodash/dist/lodash.min.js"></script>
+    <script type="text/javascript" src="js/bower_components/angular/angular.min.js"></script>
+    <script type="text/javascript" src="js/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="js/bower_components/bootstrap/dist/css/bootstrap.min.css"></link>
+    <link rel="stylesheet" href="js/bower_components/bootstrap/dist/css/bootstrap-theme.min.css"></link>
+    <script type="text/javascript" src="js/app.js"></script>
 </head>
-<body>
-    <div>
-        <label>Name:</label>
-        <input type="text" ng-model="yourName" placeholder="Enter a name here">
-        <hr>
-        <h1>Hello {{yourName}}!</h1>
+<body ng-controller="NewsListController">
+    <span>{{docs.length}} toplam</span>
+    <div class="row">
+        <div class="col-md-3" id="menuWrapper">
+            <mtm-menu tree="menus"></mtm-menu>
+        </div>
+        <div class="col-md-9">
+            <ul class="list-group">
+                <li class="list-group-item" ng-repeat="doc in currentDocs">{{doc.title}}</li>
+            </ul>
+        </div>
     </div>
 </body>
 </html>

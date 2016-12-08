@@ -1,0 +1,1708 @@
+{
+    "result": {
+        "docs": [
+            {
+                "date": "2016-12-05",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.03459151,
+                        "name": "Billboard",
+                        "sci": 2016120001337921,
+                        "id": 64376,
+                        "sample": "Belediye başkanlarının da yer aldığı <font class=\"kPri\" onclick=\"kClick(this);\">billboardlarda</font>, 'Sizi düşünüyoruz, geri dönüştürüyoruz', 'Geri dönüşüm israfı önler', 'Gelecek dönüşümde, dönüşüm elimizde', 'Geleceğimizi düşünelim, geri dönüşüme destek verelim' ve 'Çöp değil, ham madde"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001337921,
+                "media": 15150,
+                "idx": 0,
+                "title": "GERİ DÖNÜŞÜME DESTEK KAMPANYASI",
+                "mediaName": "Yeni Göksu"
+            },
+            {
+                "date": "2016-12-05",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.00377244,
+                        "name": "Kristal Elma Türkiye Reklam Ödülleri",
+                        "sci": 2016120001342391,
+                        "id": 83829,
+                        "sample": "beni ziyadesi ile memnun etti. İsparta Barolar birliğinin düzenlediği bütün etkinliklere belediyemiz imkanları doğrultusunda destek olmaya devam edeceğiz \"dedi. Başkan Şengöl, Başkan Gökmenoğlu'na ziyaret anısı olarak <font class=\"kPri\" onclick=\"kClick(this);\">kristal elma</font> hediye etti."
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001342391,
+                "media": 7548,
+                "idx": 1,
+                "title": "GÖKMENOĞLU'DAN BAŞKAN ŞENGÖL'E ZİYARET",
+                "mediaName": "Nokta Gazetesi"
+            },
+            {
+                "date": "2016-12-05",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.01163373,
+                        "name": "Fikir Merkezi Reklamcılık",
+                        "sci": 2016120001345001,
+                        "id": 10796,
+                        "sample": "Şehrimizin çok güzel bir bölgesi, mevkii olarak yüksek olması Ankara'daki Çukurambar'ı anımsatıyor. Camiler, ibadet ve <font class=\"kPri\" onclick=\"kClick(this);\">fikir merkezidir</font>. Devlet vatandaşına burada yaklaşır ve bütünleşir. Biz milli kimlik ve milli vatan altında yaşamayı arzu eden herkese"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001345001,
+                "media": 9992,
+                "idx": 2,
+                "title": "KONAK CAMİİ NİN TEMELİ ATILDI",
+                "mediaName": "Çağrı Gazetesi"
+            },
+            {
+                "date": "2016-12-05",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.02736297,
+                        "name": "Billboard",
+                        "sci": 2016120001345061,
+                        "id": 64376,
+                        "sample": "Belediye başkanlarmm da yer aldığı <font class=\"kPri\" onclick=\"kClick(this);\">billboardlarda</font>, 'Sizi düşünüyoruz, geri dönüştürüyoruz', 'Geri dönüşüm israfı önler', 'Gelecek dönüşümde, dönüşüm elimizde', 'Geleceğimizi düşünelim, geri dönüşüme destek verelim' ve 'Çöp değil, ham madde'"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001345061,
+                "media": 9992,
+                "idx": 3,
+                "title": "GERİ DÖNÜŞÜMDE BİLLBOARDLI BİLİNÇLENDİRME",
+                "mediaName": "Çağrı Gazetesi"
+            },
+            {
+                "date": "2016-12-05",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.01727711,
+                        "name": "Interpress",
+                        "sci": 2016120001347011,
+                        "id": 2592,
+                        "sample": "70 BİN HABER ÇIKTI Medya Takıp Ajansı <font class=\"kPri\" onclick=\"kClick(this);\">Interpress</font>'in \"Dünya Engelliler Günü\" nedeniyle yaptığı araştımıaya göre, engellilerle ilgili yılbaşından bu yana yazılı basma toplam 68 bin 975 haber yansıdığı tespit edildi. Bu haberler içinde bedensel"
+                    }
+                ],
+                "clipCount": 2,
+                "id": 2016120001347011,
+                "media": 1114,
+                "idx": 4,
+                "title": "8.5 MİLYON ENGELLİ VAR",
+                "mediaName": "Bizim Anadolu"
+            },
+            {
+                "date": "2016-12-05",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.02740573,
+                        "name": "MTM Medya Takip Merkezi",
+                        "sci": 2016120001403051,
+                        "id": 3593,
+                        "sample": "<font class=\"kPri\" onclick=\"kClick(this);\">Medya Takip</font> Ajansı lnterpress'in Dünya Engelliler Günü' nedeniyle <font class=\"kSec\" onclick=\"kClick(this);\">yaptığı araştırmaya</font> gore. engellilerle ilgili yılbaşından bu yana yazılı basına toplam 68 bin 975 haber yansıdığı tespit ed İdi. Du haberler içinde bedensel engel iler hakkında"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001403051,
+                "media": 3749,
+                "idx": 5,
+                "title": "TÜRKİYEDE ENGELLİ SAYISI ORTALAMANIN ÜZERİNDE",
+                "mediaName": "Isparta Akın Gazetesi"
+            },
+            {
+                "date": "2016-12-03",
+                "score": 0,
+                "access": true,
+                "brands": [
+                    {
+                        "score": 0.03298765,
+                        "name": "IPRA Uluslararası Halkla İlişkiler Derneği",
+                        "sci": 2016120001421731,
+                        "id": 5538,
+                        "sample": "merkezi Marmara Forum, sosyal sorumluluk bilinciyle hayata geçirdiği \"1 Lirayla Değişir Dünya\" projesi ile <font class=\"kPri\" onclick=\"kClick(this);\">Uluslararası Halkla ilişkiler Derneği</font> (IPRA) tarafından her yıl düzenlenen IPRA Golden VVorld Awards'ta (IPRA Altın Küre Ödülleri) Sivil Toplum"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001421731,
+                "media": 181,
+                "idx": 6,
+                "title": "MARMARA FORUM'A BÜYÜK ÖDÜL",
+                "mediaName": "Ekonomik Çözüm"
+            },
+            {
+                "date": "2016-12-03",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.05704076,
+                        "name": "Hill + Knowlton Strategies",
+                        "sci": 2016120001422021,
+                        "id": 44596,
+                        "sample": "l H. Merkezi (E. Çözüm) DÜNYANIN en büyük iletişim grubu WPP bünyesinde faaliyet gösteren <font class=\"kPri\" onclick=\"kClick(this);\">Hill+Knowlton Strategies</font> Türkiye'nin üst yönetiminde, şirketin büyüme stratejisi çerçevesinde yeni görevlendirmeler yapıldı. Buna göre, 2009 yılından bu"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001422021,
+                "media": 181,
+                "idx": 7,
+                "title": "ÜST YÖNETİMDE YENİ ATAMALAR",
+                "mediaName": "Ekonomik Çözüm"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": true,
+                "brands": [
+                    {
+                        "score": 0.04517029,
+                        "name": "Ajans Press",
+                        "sci": 2016120001457551,
+                        "id": 120,
+                        "sample": "yarısından fazlası gereksiz antibiyotik kullanımı olarak kayıtlara geçiyor. <font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>, küresel sorun antibiyotik kullanımının medya yansımalarını raporladı. <font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>'in yıl boyunca çıkan haberleri incelediği medya raporunda, antibiyotik kullanımı"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001457551,
+                "media": 3141,
+                "idx": 8,
+                "title": "TÜRKİYE ANTİBİYOTİK KULLANIMINDA DÜNYA BİRİNCİSİ",
+                "mediaName": "Ankara 24 Saat"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": true,
+                "brands": [
+                    {
+                        "score": 0.04649397,
+                        "name": "Reklam Panosu",
+                        "sci": 2016120001461331,
+                        "id": 64377,
+                        "sample": "M1 Adana AVM, Adana Havalimanı , Adana ve Mersin Organize Sanayi Bölgesi'ndeki, outdoor ve indoor <font class=\"kPri\" onclick=\"kClick(this);\">reklam panoları</font> , digital <font class=\"kPri\" onclick=\"kClick(this);\">reklam panoları</font> ve kent merkezindeki Adana Büyükşehir Belediyesi Yön Levhaları, ile birlikte Usta Reklam ile yapmış"
+                    },
+                    {
+                        "score": 0.01912538,
+                        "name": "Digital Reklam",
+                        "sci": 2016120001461331,
+                        "id": 78584,
+                        "sample": "Adana AVM, Adana Havalimanı , Adana ve Mersin Organize Sanayi Bölgesi'ndeki, outdoor ve indoor reklam panoları , <font class=\"kPri\" onclick=\"kClick(this);\">digital reklam</font> panoları ve kent merkezindeki Adana Büyükşehir Belediyesi Yön Levhaları, ile birlikte Usta Reklam ile yapmış olduğu"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001461331,
+                "media": 10190,
+                "idx": 9,
+                "title": "AÇIK HAVA REKLAMCILIĞI RENKLENİYOR",
+                "mediaName": "Adana Günaydın"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.04662741,
+                        "name": "Reklam Panosu",
+                        "sci": 2016120001464131,
+                        "id": 64377,
+                        "sample": "M1 Adana AVM, Adana Havalimanı , Adana ve Mersin Organize Sanayi Bölgesi'ndeki , outdoor ve indoor <font class=\"kPri\" onclick=\"kClick(this);\">reklam panoları</font> , digital <font class=\"kPri\" onclick=\"kClick(this);\">reklam panoları</font> ve kent merkezindeki Adana Büyükşehir Belediyesi Yön Levhaları, ile birlikte Usta Reklam ile yapmış"
+                    },
+                    {
+                        "score": 0.01915769,
+                        "name": "Digital Reklam",
+                        "sci": 2016120001464131,
+                        "id": 78584,
+                        "sample": "Adana AVM, Adana Havalimanı , Adana ve Mersin Organize Sanayi Bölgesi'ndeki , outdoor ve indoor reklam panoları , <font class=\"kPri\" onclick=\"kClick(this);\">digital reklam</font> panoları ve kent merkezindeki Adana Büyükşehir Belediyesi Yön Levhaları, ile birlikte Usta Reklam ile yapmış olduğu"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001464131,
+                "media": 2711,
+                "idx": 10,
+                "title": "ADANA'DA AÇIK HAVA REKLAMCILIĞI RENKLENİYOR!",
+                "mediaName": "Adana İlk Haber"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.04670203,
+                        "name": "Reklam Panosu",
+                        "sci": 2016120001466951,
+                        "id": 64377,
+                        "sample": " Mİ Adana AVM, Adana Havalimanı, Adana ve Mersin Organize Sanayi Bölgesi'ndeki , outdoor ve indoor <font class=\"kPri\" onclick=\"kClick(this);\">reklam panoları</font>, digital <font class=\"kPri\" onclick=\"kClick(this);\">reklam panoları</font> ve kent merkezindeki Adana Büyüksehir Belediyesi Yön Levhalan, ile birlikte Usta Reklam ile yapmış olduğu"
+                    },
+                    {
+                        "score": 0.01922825,
+                        "name": "Digital Reklam",
+                        "sci": 2016120001466951,
+                        "id": 78584,
+                        "sample": "Adana AVM, Adana Havalimanı, Adana ve Mersin Organize Sanayi Bölgesi'ndeki , outdoor ve indoor reklam panoları, <font class=\"kPri\" onclick=\"kClick(this);\">digital reklam</font> panoları ve kent merkezindeki Adana Büyüksehir Belediyesi Yön Levhalan, ile birlikte Usta Reklam ile yapmış olduğu"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001466951,
+                "media": 1787,
+                "idx": 11,
+                "title": "ADANA'DAAÇIK HAVA REKLAMCILIĞI RENKLENİYOR",
+                "mediaName": "Adana Beş Ocak"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.06065266,
+                        "name": "Reklam Panosu",
+                        "sci": 2016120001468961,
+                        "id": 64377,
+                        "sample": "M1 Adana AVM, Adana Havalimanı , Adana ve Mersin Organize Sanayi Bölgesi'ndeki , outdoor ve indoor <font class=\"kPri\" onclick=\"kClick(this);\">reklam panoları</font> , digital <font class=\"kPri\" onclick=\"kClick(this);\">reklam panoları</font> ve kent merkezindeki Adana Büyükşehir Belediyesi Yön Levhaları, ile birlikte Usta Reklam ile yapmış"
+                    },
+                    {
+                        "score": 0.02561271,
+                        "name": "Digital Reklam",
+                        "sci": 2016120001468961,
+                        "id": 78584,
+                        "sample": "Adana AVM, Adana Havalimanı , Adana ve Mersin Organize Sanayi Bölgesi'ndeki , outdoor ve indoor reklam panoları , <font class=\"kPri\" onclick=\"kClick(this);\">digital reklam</font> panoları ve kent merkezindeki Adana Büyükşehir Belediyesi Yön Levhaları, ile birlikte Usta Reklam ile yapmış olduğu"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001468961,
+                "media": 92,
+                "idx": 12,
+                "title": "ADANA'DA AÇIK HAVA REKLAMCILIĞI RENKLENİYOR!",
+                "mediaName": "Adana Bölge"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.00371746,
+                        "name": "Dijital Reklam",
+                        "sci": 2016120001476051,
+                        "id": 10835,
+                        "sample": "<font class=\"kPri\" onclick=\"kClick(this);\">Dijital Reklamların</font> Kriminal Cazibesi: Önümüzdeki yıl içerisinde, reklamcılık sektöründe görmeye alıştığımız takip ve hedefleme araçlarının benzerlerinin sözde aktivistlerin ve muhaliflerin izlenmesinde kullanıldığını göreceğiz. Benzer şekilde"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001476051,
+                "media": 654,
+                "idx": 13,
+                "title": "2017 TEHDİT ÖNGÖRÜLERİ",
+                "mediaName": "Yeni Asya"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.08122866,
+                        "name": "Ajans Press",
+                        "sci": 2016120001484581,
+                        "id": 120,
+                        "sample": "<font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>, küresel sorun antibiyotik kullanımının medya yansımalarını raporladı. <font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>'in yıl boyunca çıkan haberleri incelediği medya raporunda, antibiyotik kullanımı 9 bin 504 habere konu oldu. Ulusal ve yerel yayınlarda, medyaya yansıyan"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001484581,
+                "media": 4604,
+                "idx": 14,
+                "title": "KÜRESEL TEHLİKE; ANTİBİYOTİK KULLANIMI",
+                "mediaName": "Kastamonu Gazetesi"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": true,
+                "brands": [
+                    {
+                        "score": 0.08122451,
+                        "name": "Ajans Press",
+                        "sci": 2016120001492721,
+                        "id": 120,
+                        "sample": "<font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>, küresel sorun antibiyotik kullanımının medya yansımalarını raporladı. <font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>'in yıl boyunca çıkan haberleri incelediği medya raporunda, antibiyotik kullanımı 9 bin 504 habere konu oldu. Ulusal ve yerel yayınlarda, medyaya yansıyan"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001492721,
+                "media": 3348,
+                "idx": 15,
+                "title": "KÜRESEL TEHLİKE; ANTİBİYOTİK KULLANIMI",
+                "mediaName": "Adana Egemen Gazetesi"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.0027623,
+                        "name": "Interpress",
+                        "sci": 2016120001502511,
+                        "id": 2592,
+                        "sample": " yurt müdürü ve dernek başkanının da aralarında bulunduğu 4 kişi tutuklandı, diğer şüpheli ise serbest bırakıldı. <font class=\"kPri\" onclick=\"kClick(this);\">ıntErpress</font> tWf» tlbj ıTM-lMİ IMİI fenl&Vizyon KASIMPAŞA 1-2 GALATASARAY S por Toto Lig 13. hafta maçında Galatasaray deplasmanda"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001502511,
+                "media": 11892,
+                "idx": 16,
+                "title": "TÜRKİYE GÜNDEMİ",
+                "mediaName": "Yeni Vizyon"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.06250178,
+                        "name": "Reklam Panosu",
+                        "sci": 2016120001508681,
+                        "id": 64377,
+                        "sample": " M1 Adana AVM Adana Havalimanı , Adana ve Mersin Organize Sanayi Bölgesindeki , outdoor ve indoor <font class=\"kPri\" onclick=\"kClick(this);\">reklam panoları</font> , digital <font class=\"kPri\" onclick=\"kClick(this);\">reklam panoları</font> ve kent merkezindeki Adana Büyükşehir Beledi- ,• » yesi Yön Levhaları, ; v * * 4 * ile birlikte Usta"
+                    },
+                    {
+                        "score": 0.00906285,
+                        "name": "Digital Reklam",
+                        "sci": 2016120001508681,
+                        "id": 78584,
+                        "sample": "Adana AVM Adana Havalimanı , Adana ve Mersin Organize Sanayi Bölgesindeki , outdoor ve indoor reklam panoları , <font class=\"kPri\" onclick=\"kClick(this);\">digital reklam</font> panoları ve kent merkezindeki Adana Büyükşehir Beledi- ,• » yesi Yön Levhaları, ; v * * 4 * ile birlikte Usta i,"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001508681,
+                "media": 2714,
+                "idx": 17,
+                "title": "AÇIK VAVA REKLAMCILIĞI RENKLENİYOR",
+                "mediaName": "Medya Yenigün"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": true,
+                "brands": [
+                    {
+                        "score": 0.04366543,
+                        "name": "MTM Medya Takip Merkezi",
+                        "sci": 2016120001511891,
+                        "id": 3593,
+                        "sample": "Gündemin diğer önemli konu başlıklarında ise Gülen'in iadesi, anayasa değişikliği, referandum, yeni asgari ücret maratonu, Türk Akımı Boru Hattı projesi yer aldı. İşte <font class=\"kPri\" onclick=\"kClick(this);\">Medya Takip Merkezi'nin (MTM)</font> hazırladığı medya araştırmasının detayları..."
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001511891,
+                "media": 7565,
+                "idx": 18,
+                "title": "KASIM AYI SİYASET GÜNDEMİNDE TANSİYON YÜKSELTTİ",
+                "mediaName": "Adıyaman Günebakış Gazetesi"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.04621041,
+                        "name": "Ajans Press",
+                        "sci": 2016120001512131,
+                        "id": 120,
+                        "sample": "<font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>, küresel sorun antibiyotik kullanımının medya yansımalarını raporladı. <font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>'in yıl boyunca çıkan haberleri incelediği medya raporunda, antibiyotik kullanımı 9 bin 504 habere konu oldu. Ulusal ve yerel yayınlarda, medyaya yansıyan"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001512131,
+                "media": 2715,
+                "idx": 19,
+                "title": "KÜRESEL TEHLİKE; ANTİBİYOTİK KULLANIMI",
+                "mediaName": "Yeni Adana"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.0168644,
+                        "name": "Tek Medya",
+                        "sci": 2016120001516181,
+                        "id": 42254,
+                        "sample": "ne kadar riayet ettiği ise tartışmalı bir durum. Bu nedenle, bugün ve yarın yapılacak olan Türkiye'nin çocuk odaklı <font class=\"kPri\" onclick=\"kClick(this);\">tek medya</font> konferansı TRT Çocuk Medyası Konferansı, gayet önemsenmesi gereken bir adım. \"Çocuğun Algısına Dokunmak\" konulu konferans"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001516181,
+                "media": 655,
+                "idx": 20,
+                "title": "ÇOCUKLARA YÖNELİK YAYINCILIĞIN ÖNEMİ",
+                "mediaName": "Yeniçağ"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.02395337,
+                        "name": "Reklam Panosu",
+                        "sci": 2016120001522601,
+                        "id": 64377,
+                        "sample": "tamamında saati ve Sevinmiştim ki. çalışmalaortam sıcaklık derecesini rın <font class=\"kPri\" onclick=\"kClick(this);\">reklam panosu</font> için olgösteren aygıt hizmeti için dugunu gördüm... Ellerine Osmangazl Belediyesi ne- sağlık; ama ilgili onarım, teşekkür etmiştim. Bununla bakım, montaj"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001522601,
+                "media": 1682,
+                "idx": 21,
+                "title": "KALDIRIMA NİYE DOKUNMADINIZ",
+                "mediaName": "Hürriyet Bursa"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.00582422,
+                        "name": "Tek Medya",
+                        "sci": 2016120001537251,
+                        "id": 42254,
+                        "sample": "e ayrıca teşekkür eden okur, sınıflara projeksiyon makinesi istediklerini ifade etti. 1 1 CHP TOPLANTISINDA NEDEN <font class=\"kPri\" onclick=\"kClick(this);\">TEK MEDYA</font> KURULUŞU VARDI? CHP'nin pazar günü parti binasında yaptığı, TBMM Grupbaşkanvekili Özgür Özel'in de katıldığı toplantıyı"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001537251,
+                "media": 729,
+                "idx": 22,
+                "title": "ESKİŞEHİR GÜNLÜĞÜ",
+                "mediaName": "Eskişehir Sakarya"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.00848067,
+                        "name": "Reklam Panosu",
+                        "sci": 2016120001546151,
+                        "id": 64377,
+                        "sample": "Billboardlarımızda reklam için gerekli indirimleri yaparak sizlere kiralayabiliriz. Hatta belirli noktalarda <font class=\"kPri\" onclick=\"kClick(this);\">reklam panolarımıza</font> kura çekerek hiçbir ücret almadan reklamlarınızı yapabilirsiniz. Belediyeye ait otobüslerimizde yine pestil ve"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001546151,
+                "media": 15699,
+                "idx": 23,
+                "title": "ATA MİRASI MASADA",
+                "mediaName": "Gümüşhane Olay"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.00985747,
+                        "name": "Repaş",
+                        "sci": 2016120001560451,
+                        "id": 4552,
+                        "sample": "birimine ihbarda bulununuz. Mağdur olmamak için PTT Şubeleri, Bankalar ve fatura harici herhangi bir ilave işlem ücreti, komisyon almayan yetkili TREPAŞ veznelerimiz dışında ödeme yapmayınız\" ifadelerini kullandı. (Kadir Sinici) '<font class=\"kPri\" onclick=\"kClick(this);\">REPAŞ</font> umm OfiMJ'i"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001560451,
+                "media": 4551,
+                "idx": 24,
+                "title": "TREPAŞ \"DOLANDIRICILARA\" KARŞI UYARIYOR",
+                "mediaName": "Yeşilyurt"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.03746645,
+                        "name": "Özlem Ayaz",
+                        "sci": 2016120001566851,
+                        "id": 112579,
+                        "sample": "Bayan Judo Takımı, grup maçları sonunda birinci olarak final maçlarına katılmaya hak kazandı. Antrenörler Oktay Ayaz, <font class=\"kPri\" onclick=\"kClick(this);\">Özlem Ayaz</font> ve Namet Gülmez yönetiminde başarılı bir sezon geçiren bayan judocular, finalde karşılaştığı Sivas Gençlik ve Spor"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001566851,
+                "media": 14133,
+                "idx": 25,
+                "title": "SALİHLİ BELEDİYESPOR SÜPER LİGDE",
+                "mediaName": "Manisa Olay"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.04619258,
+                        "name": "Ajans Press",
+                        "sci": 2016120001569191,
+                        "id": 120,
+                        "sample": "<font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>, küresel sorun antibiyotik kullanımının medya yansımalarını raporladı. <font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>'in yıl boyunca çıkan haberleri incelediği medya raporunda, antibiyotik kullanımı 9 bin 504 habere konu oldu. Ulusal ve yerel yayınlarda, medyaya yansıyan"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001569191,
+                "media": 10155,
+                "idx": 26,
+                "title": "KÜRESEL TEHLİKE; ANTİBİYOTİK KULLANIMI",
+                "mediaName": "Adana Çukurova Barış"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.04715364,
+                        "name": "Özlem Ayaz",
+                        "sci": 2016120001573651,
+                        "id": 112579,
+                        "sample": "Bayan Judo Takımı, grup maçları sonunda birinci olarak final maçlarına katılmaya hak kazandı. Antrenörler Oktay Ayaz, <font class=\"kPri\" onclick=\"kClick(this);\">Özlem Ayaz</font> ve Namet Gülmez yönetiminde başarılı bir sezon geçiren bayan judocular, finalde karşılaştığı Sivas Gençlik ve Spor"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001573651,
+                "media": 11483,
+                "idx": 27,
+                "title": "SALİHLİ JUDODA SÜPER",
+                "mediaName": "Manisa'da Gündem"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.18847713,
+                        "name": "Ajans Press",
+                        "sci": 2016120001586981,
+                        "id": 120,
+                        "sample": "kullanımında şampiyon <font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>, küresel sorun antibiyotik kullanımının medya yansımalarını raporladı. <font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>'in yıl boyunca çıkan haberleri incelediği medya raporunda, antibiyotik kullanımı 9 bin 504 habere konu oldu. Ulusal ve yerel"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001586981,
+                "media": 359,
+                "idx": 28,
+                "title": "TÜRKİYE, ANTİBİYOTİK KULLANIMINDA ŞAMPİYON",
+                "mediaName": "Kocaeli"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.07028303,
+                        "name": "IAB Avrupa",
+                        "sci": 2016120001589431,
+                        "id": 130859,
+                        "sample": "yetişti <font class=\"kPri\" onclick=\"kClick(this);\">IAB Avrupa</font>'ya üye yedi ülkenin (Almanya, İrlanda, Hollanda, Polonya, Sırbistan, İspanya ve Türkiye) işbirliği ile hazırlanan Reklam veren Mobil Denetim Raporunda bu yıl perakende ve finans sektörleri incelendi. <font class=\"kPri\" onclick=\"kClick(this);\">IAB Avrupa</font>'nın 2. kez"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001589431,
+                "media": 1068,
+                "idx": 29,
+                "title": "SALDIRILAR ÜRKÜTÜYOR",
+                "mediaName": "Gaziantep 27"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.01671361,
+                        "name": "Interpress",
+                        "sci": 2016120001594861,
+                        "id": 2592,
+                        "sample": "Medya Takibi Ajansı <font class=\"kPri\" onclick=\"kClick(this);\">Interpress</font>'in araştırmasına göre, geçtiğimiz ay yazılı basında magazin gündeminin ilk sırasında, yeni filmi \"Ekşi Elmalar\" ile her ne kadar gişede istediği başarıyı yakalayamasa da adından sıkça söz ettiren Yılmaz Erdoğan"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001594861,
+                "media": 3263,
+                "idx": 30,
+                "title": "KULİS",
+                "mediaName": "Gölcük Haber Gazetesi"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.12155795,
+                        "name": "Ajans Press",
+                        "sci": 2016120001610551,
+                        "id": 120,
+                        "sample": "<font class=\"kPri\" onclick=\"kClick(this);\">AJANS PRESS</font> KULLANIMINDA DÜNYA BİRİNCİSİ KÜRESEL TEHLİKE; ANTtBtYOTtK KULLANIMI Antibiyotik direnci, en büyük ve en acil ele alınması gereken küresel bir tehlike Press'in yıl boyunca çıkan haberleri incelediği medya raporunda, antibiyotik kullanımı"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001610551,
+                "media": 3964,
+                "idx": 31,
+                "title": "TÜRKİYE ANTİBİYOTİK KULLANIMINDA DÜNYA BİRİNCİSİ",
+                "mediaName": "Tekirdağ Şafak Gazetesi"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.01506576,
+                        "name": "Interpress",
+                        "sci": 2016120001610591,
+                        "id": 2592,
+                        "sample": "Medya Takip Ajansı <font class=\"kPri\" onclick=\"kClick(this);\">Interpress</font>'in \"Dünya Engelliler Günü\" nedeniyle yaptığı araştırmaya göre, engellilerle ilgili yılbaşından bu yana yazılı basına toplam 68 bin 975 haber yansıdığı tespit edildi. Bu haberler içinde bedensel engelliler hakkında"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001610591,
+                "media": 3964,
+                "idx": 32,
+                "title": "TÜRKİYEDE ENGELLİ SAYISI ORTALAMANIN ÜZERİNDE",
+                "mediaName": "Tekirdağ Şafak Gazetesi"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.02252606,
+                        "name": "Reklam Panosu",
+                        "sci": 2016120001616921,
+                        "id": 64377,
+                        "sample": "Adana AVM, Adana Havalimanı, Adana ve Mersin Organize Sanayi Bölgesi'ndeki, outdoor ve indoor <font class=\"kPri\" onclick=\"kClick(this);\">reklam panoları</font>, digital <font class=\"kPri\" onclick=\"kClick(this);\">reklam panoları</font> ve kent merkezindeki Adana Büyükşehir Belediyesi YönLevhaları, ile birlikte Usta Reklam ile yapmış olduğu"
+                    },
+                    {
+                        "score": 0.01093558,
+                        "name": "Digital Reklam",
+                        "sci": 2016120001616921,
+                        "id": 78584,
+                        "sample": "Adana AVM, Adana Havalimanı, Adana ve Mersin Organize Sanayi Bölgesi'ndeki, outdoor ve indoor reklam panoları, <font class=\"kPri\" onclick=\"kClick(this);\">digital reklam</font> panoları ve kent merkezindeki Adana Büyükşehir Belediyesi YönLevhaları, ile birlikte Usta Reklam ile yapmış olduğu"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001616921,
+                "media": 578,
+                "idx": 33,
+                "title": "ADANA'DA AÇIK HAVA REKLAMCILIĞI RENKLENİYOR!",
+                "mediaName": "Adana Toros"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.0394557,
+                        "name": "QNET",
+                        "sci": 2016120001632191,
+                        "id": 121043,
+                        "sample": "uygulayabileceğiniz hatif bir makyaj ile kusursuz görünmeniz mümkün. Kışın zorlu şartlarında, kapalı ve gri havaya inat Couleurs by <font class=\"kPri\" onclick=\"kClick(this);\">QNET</font> serisi ile yapacağınız makyajınız ile ışıl ışıl göründüğünüz bir gün geçirebilirsiniz. Kusursuz bir cilt görünümü elde"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001632191,
+                "media": 2954,
+                "idx": 34,
+                "title": "PARILTI PUDRASIYLA KUSURSUZ MAKYAJ",
+                "mediaName": "Bursa Kent"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.01350598,
+                        "name": "Interpress",
+                        "sci": 2016120001648331,
+                        "id": 2592,
+                        "sample": "Medya takip ajansı <font class=\"kPri\" onclick=\"kClick(this);\">Interpress</font>'in \"Dünya Kadın Hakları Günü\" nedeniyle üç bine yakın ulusal, bölgesel ve yerel gazete ile dergiyi kapsayan araştırmasına göre, Ocak ayından bu yana yazılı basında kadınlarla ilgili 76 binden fazla haber çıkarken"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001648331,
+                "media": 8553,
+                "idx": 35,
+                "title": "ŞİDDET YÜZÜNDEN KADINLAR YAŞAM HAKLARINI KULLANAMIYOR",
+                "mediaName": "Marmaris Manşet"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.046238,
+                        "name": "Ajans Press",
+                        "sci": 2016120001648341,
+                        "id": 120,
+                        "sample": "<font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>, küresel sorun antibiyotik kullanımının medya yansımalarını raporladı. <font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>'in yıl boyunca çıkan haberleri incelediği medya raporunda, antibiyotik kullanımı 9 bin 504 habere konu oldu. Ulusal ve yerel yayınlarda, medyaya yansıyan"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001648341,
+                "media": 8553,
+                "idx": 36,
+                "title": "KÜRESEL TEHLİKE; ANTİBİYOTİK KULLANIMI",
+                "mediaName": "Marmaris Manşet"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.03391642,
+                        "name": "QNET",
+                        "sci": 2016120001651191,
+                        "id": 121043,
+                        "sample": "Orçun YILMAZ İSTANBUL-ONETin makyaj markası \"Couleurs by <font class=\"kPri\" onclick=\"kClick(this);\">QNET</font>, günlük hayatınızda kullanabileceğiniz makyajınızı mükemmel Pudra dokunuşuyla tamamlıyor. Soğuk hava şartlarının insanları etkilediği bu günlerde işe giderken, dışan çıkarken, günlük"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001651191,
+                "media": 532,
+                "idx": 37,
+                "title": "COULEURS BY ONET İN PARILTI PUDRASI İLE MAKYAJINIZ KUSURSUZ OLSUN",
+                "mediaName": "Son An"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.02405448,
+                        "name": "Interpress",
+                        "sci": 2016120001654471,
+                        "id": 2592,
+                        "sample": "Kadınların sorunları medyanın da gündeminde Medya takip ajansı <font class=\"kPri\" onclick=\"kClick(this);\">Interpress</font>'in \"Dünya Kadın Hakları Günü\" nedeniyle üç bine yakın ulusal, bölgesel ve yerel gazete ile dergiyi kapsayan araştırmasına göre, Ocak ayından bu yana yazılı basında kadınlarla"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001654471,
+                "media": 12455,
+                "idx": 38,
+                "title": "KADINLAR YAŞAM HAKLARINA KULLANAMIYOR",
+                "mediaName": "Erzurum Pusula Gazetesi"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.03436828,
+                        "name": "Zenith Medya",
+                        "sci": 2016120001656051,
+                        "id": 37134,
+                        "sample": "Advertising agency <font class=\"kPri\" onclick=\"kClick(this);\">Zenith Optimedia</font>, owned by France's Publicis, predicts global advertising expenditure on social media will account for 20 percent of al1 internet advertising in 2019, hitting $50 billion and coming in just one percent smaller"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001656051,
+                "media": 14418,
+                "idx": 39,
+                "title": "SOCİAL MEDİA ADS TO HİT $50 BİLLİON BY 2019",
+                "mediaName": "Daily Sabah"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.01768343,
+                        "name": "Interpress",
+                        "sci": 2016120001688441,
+                        "id": 2592,
+                        "sample": " HASTASI Vatanım] myar@posta.com.tr Şimdikileri boşver <font class=\"kPri\" onclick=\"kClick(this);\">Interpress</font> takip ajansının verilerine göre kasım başından J bu yana en çok haber olan beş llp dizi sırasıyla; V Eşkıya Dünyaya Hükümdar Olmaz (atv), Vatanım Sensin M (Kanal D), Yeter ESSUGUgg"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001688441,
+                "media": 487,
+                "idx": 40,
+                "title": "TELEVİZYON HASTASI",
+                "mediaName": "Posta"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.00565171,
+                        "name": "Medya Hizmetleri",
+                        "sci": 2016120001695351,
+                        "id": 37148,
+                        "sample": "kararı aldığını ve Kars'ın da bu prensibe uyduğunu belirterek, bundan böyle daha nitelikli ve daha güçlü yerel <font class=\"kPri\" onclick=\"kClick(this);\">medya hizmetlerinin</font> olacağını söylediler. Gazete sayısından ziyade daha güçlü bir medya yapısıyla daha fazla iletişim sağlanabileceğini"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001695351,
+                "media": 9783,
+                "idx": 41,
+                "title": "KARS'TA BİR İLK, 13 GAZETE BİRLEŞTİ",
+                "mediaName": "Süreç Gazetesi"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.04968309,
+                        "name": "Ajans Press",
+                        "sci": 2016120001702251,
+                        "id": 120,
+                        "sample": "yarısından fazlası gereksiz antibiyotik kullanımı olarak kayıtlara geçiyor. <font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>, küresel sorun antibiyotik kullanımının medya yansımalarını raporladı. <font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>'in yıl boyunca çıkan haberleri incelediği medya raporunda, antibiyotik kullanımı"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001702251,
+                "media": 13859,
+                "idx": 42,
+                "title": "TÜRKİYE ANTİBİYOTİK KULLANIMINDA DÜNYA BİRİNCİSİ",
+                "mediaName": "Zonguldak Denge"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.06692735,
+                        "name": "QNET",
+                        "sci": 2016120001714621,
+                        "id": 121043,
+                        "sample": "ALMASINA OLANAK VEREN DOĞRUDAN SATIŞ SEKTÖRÜ, ÜRÜN VE HİZMETLERİNİ GELİŞTİRİRKEN TEMSİLCİLERİ İLE DE KİTLELERE ULAŞIYOR. <font class=\"kPri\" onclick=\"kClick(this);\">QNET</font>, AVON, AMWAY, ORIFLAME VE HERBALIFE'IN YANI SIRA DOĞRUDAN SATIŞ DERNEĞİ, TÜRKİYE VE DÜNYA PAZARINDAKİ KONUMLARINI ANLATIRKEN"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001714621,
+                "media": 481,
+                "idx": 43,
+                "title": "DOĞRUDAN SATIŞ SİSTEMİNDE TRENDLERİ, TOPLUMLARIN BEKLENTİLERİ OLUŞTURUYOR",
+                "mediaName": "Platin"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.02633782,
+                        "name": "Dijital Reklam",
+                        "sci": 2016120001714771,
+                        "id": 10835,
+                        "sample": "Onlar sadece kazançların değil, müşterilerinin ve çağımız kültürünün ufkunu da geliştiriyor. 21 yaşında AKQA adlı <font class=\"kPri\" onclick=\"kClick(this);\">dijital reklam</font> ve pazarlama ajansını kurarak bugün dünya çapında ilgi çeken bir CEO olan Ajaz Ahmed, 'Sınır Tanımayanlar' adlı kitabında"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001714771,
+                "media": 481,
+                "idx": 44,
+                "title": "KİTAP",
+                "mediaName": "Platin"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.03027947,
+                        "name": "Reklam Panosu",
+                        "sci": 2016120001717271,
+                        "id": 64377,
+                        "sample": "ADANA; Mİ Adana AVM, Adana Havalimanı, Adana ve Mersin Organize Sanayi Bölgesi'ndeki, outdoor ve indoor <font class=\"kPri\" onclick=\"kClick(this);\">reklam panoları</font>, digital <font class=\"kPri\" onclick=\"kClick(this);\">reklam panoları</font> ve kent merkezindeki Adana Büyükşehir Belediyesi Yön Levhaları ile birlikte Usta Reklam ile yapmış olduğu"
+                    },
+                    {
+                        "score": 0.01234829,
+                        "name": "Digital Reklam",
+                        "sci": 2016120001717271,
+                        "id": 78584,
+                        "sample": "Mİ Adana AVM, Adana Havalimanı, Adana ve Mersin Organize Sanayi Bölgesi'ndeki, outdoor ve indoor reklam panoları, <font class=\"kPri\" onclick=\"kClick(this);\">digital reklam</font> panoları ve kent merkezindeki Adana Büyükşehir Belediyesi Yön Levhaları ile birlikte Usta Reklam ile yapmış olduğu"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001717271,
+                "media": 14666,
+                "idx": 45,
+                "title": "ADANA DA AÇIK HAVA REKLAMCILIĞI RENKLENİYOR",
+                "mediaName": "Gazette"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.02377963,
+                        "name": "Konkur Reklamcılar Derneği",
+                        "sci": 2016120001719261,
+                        "id": 62658,
+                        "sample": "Italien verfügt über eine im Weltmafü stab <font class=\"kPri\" onclick=\"kClick(this);\">konkurrenzfâhige</font> Industrie, das ist etwas and e re s als Griechenlaııd, wo der IWF gerade einen Schuldenschnitt als Preis dafür verlangt, dass er bei der Konsolidierung des Staates weiter mitmaeht."
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001719261,
+                "media": 8173,
+                "idx": 46,
+                "title": "KONİ İ NENİ DER İNDİVİDUALİSTEN",
+                "mediaName": "Der Tagesspiegel"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.02010058,
+                        "name": "Konkur Reklamcılar Derneği",
+                        "sci": 2016120001719391,
+                        "id": 62658,
+                        "sample": "ım Wahtkampf starke <font class=\"kPri\" onclick=\"kClick(this);\">Konkurrenz</font> teıı Amtsperiode in der jüngeren französischen Geschiclıte eiıı Novunı. Vor der spektakıı İaren Aııkündigung Hollandes hatte siclı Valls bei den Sozialisten als innerparteilicher <font class=\"kPri\" onclick=\"kClick(this);\">Konkurrent</font> des Prâsidenten in Stellung"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001719391,
+                "media": 8173,
+                "idx": 47,
+                "title": "YOM REGİERUNGSCHEF ZUM KANDİDATEN",
+                "mediaName": "Der Tagesspiegel"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.00993713,
+                        "name": "Konkur Reklamcılar Derneği",
+                        "sci": 2016120001719771,
+                        "id": 62658,
+                        "sample": "einervon gut 145 auf 75 Flugzeugen geschrumpften Flotte. Dazu will Air Berlin bis zu 40 Mittelstreckenjets an den <font class=\"kPri\" onclick=\"kClick(this);\">Konkurrenten</font> Lufthansa vermieten mitsamt der Crews (Wet Lease). Lufthansa plant, die Flugzeuge bei der eigeııen Billigplattform"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001719771,
+                "media": 8173,
+                "idx": 48,
+                "title": "ETİHAD RETTET AİR BERLİN ÜBER DEN WİNTER",
+                "mediaName": "Der Tagesspiegel"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.10029925,
+                        "name": "Megalight",
+                        "sci": 2016120000172871,
+                        "id": 64379,
+                        "sample": "Dijital <font class=\"kPri\" onclick=\"kClick(this);\">Megalight</font>'lara, reklamverenlere yönelik hizmetlerimizin yanı sıra, güncel haberler, etkinlikler, belediye duyuruları gibi halkın ihtiyaç duyacaldarı tüm bilgileri yansıtıyoruz\" diyor.Beyoğlu'na yerleştirdikleri dev Dijital <font class=\"kPri\" onclick=\"kClick(this);\">Megalight</font>'ların"
+                    }
+                ],
+                "clipCount": 2,
+                "id": 2016120001722611,
+                "media": 15138,
+                "idx": 49,
+                "title": "BELEDİYE BAŞKANI ABDULLAH KOÇ DAN 3 ARALIK DÜNYA ENGELLİLER GÜNÜ MESAJI",
+                "mediaName": "Doğan Hisar"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": true,
+                "brands": [
+                    {
+                        "score": 0.02285837,
+                        "name": "Ajans Press",
+                        "sci": 2016120001737681,
+                        "id": 120,
+                        "sample": "ciddi artışlar meydana gelmekte. Bunların yansından fazlası gereksiz antibiyotik kullanımı olarak kayıtlara geçiyor. <font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>, küresel sorun antibiyotik kullanımının medya yansımalarını raporladı. Yıl boyunca çıkan haberlerin incelendiği medya"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001737681,
+                "media": 6175,
+                "idx": 50,
+                "title": "KÜRESEL TEHLİKE; ANTİBİYOTİK KULLANIMI",
+                "mediaName": "Gazete Şah"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.00612793,
+                        "name": "RIAK Radyo İzleme Ve Araştırma Kurulu",
+                        "sci": 2016120001739411,
+                        "id": 5894,
+                        "sample": "yCTpOHCTBaX HHTepHeTa Bemen 3Ta OC npnroAHa H RJlft. CMapT(J)OHOB. B CeHTflÖpe npe3HfleHT Samsung Electronics CaH Hzkhh <font class=\"kPri\" onclick=\"kClick(this);\">riaK</font> coo6nı;ajı TACC, hto Samsung Hanajı nocTaBJiHTb «ra3npoMy» cboh CMapT(j)OHbi Ha 3amnmeHHOH OC Tizen. Mnrepec ra30B0H KOMnaHHH"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001739411,
+                "media": 8473,
+                "idx": 51,
+                "title": "R PAJKFLAHCTBO TİZEN NOFL BONPOCOM",
+                "mediaName": "Vedomosti (Rusya)"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.00582842,
+                        "name": "Zenith Medya",
+                        "sci": 2016120001739661,
+                        "id": 37134,
+                        "sample": "connajibHbix ceT*îx. PemıaMOflaTe/iH CTajiH TparaTb öojibine #eHer 3a npeAenaMH Tpa#HnHOHHbix Me#Ha, cnmaeT oh. IIo flaHHbiM <font class=\"kPri\" onclick=\"kClick(this);\">Zenith Optimedia</font>, b 2016-2019 rr. peKJiaMOflaTenH yBejiHHaT cboh 3aTpaTbi Ha peKJiaMy b concethx Ha 72% flo $50 ıvuıp^."
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001739661,
+                "media": 8473,
+                "idx": 52,
+                "title": "PEKJİAMA 3AMEAJİNETCH",
+                "mediaName": "Vedomosti (Rusya)"
+            },
+            {
+                "date": "2016-12-01",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.03366151,
+                        "name": "Azizoğlu Halkla İlişkiler",
+                        "sci": 2016120001741501,
+                        "id": 608,
+                        "sample": "gözde merkezlerinden Nişantaşı'nda hizmet veren Beauty Art Güzellik Merkezi, \"Kışa Merhaba\" daveti düzenledi. <font class=\"kPri\" onclick=\"kClick(this);\">Azizoğlu Halkla İlişkiler</font>'in organizasyonunu yaptığı davete, cemiyet hayatının ünlü hanımları katıldı. Beauty Art Güzellik Merkezi'nin"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001741501,
+                "media": 8549,
+                "idx": 53,
+                "title": "GÜZELLİĞİN ADRESİNDE KIŞA MERHABA",
+                "mediaName": "Quality of Magazine"
+            },
+            {
+                "date": "2016-11-01",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.04381693,
+                        "name": "Medya Hizmetleri",
+                        "sci": 2016120001745841,
+                        "id": 37148,
+                        "sample": "NEVVS FROM US EKİN YAYIN GRUBUNDAN İNTERAKTİFSOSYAL <font class=\"kPri\" onclick=\"kClick(this);\">MEDYA HİZMETLERİ</font> 4$ EKİN Yayın Grubunun sahip olduğu iç pazara yönelik MOBİLYA DEKORASYON ve uluslararası dağıtımı olan FURNITURK dergileri içerisinde reklam olarak yer alan firmalarımıza,"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001745841,
+                "media": 4990,
+                "idx": 54,
+                "title": "EKİN YAYIN GRUBUNDAN İNTERAKTİFSOSYAL MEDYA HİZMETLERİ",
+                "mediaName": "Mobilya Dekorasyon"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": true,
+                "brands": [
+                    {
+                        "score": 0.05619719,
+                        "name": "Ajans Press",
+                        "sci": 2016120001766051,
+                        "id": 120,
+                        "sample": "yarısından fazlası gereksiz antibiyotik kullanımı olarak kayıtlara geçiyor. <font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>, küresel sorun antibiyotik kullanımının medya yansımalarını raporladı. <font class=\"kPri\" onclick=\"kClick(this);\">Ajans Press</font>'in yıl boyunca çıkan haberleri incelediği medya raporunda, antibiyotik kullanımı"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001766051,
+                "media": 3855,
+                "idx": 55,
+                "title": "KÜRESEL TEHLİKE; ANTİBİYOTİK KULLANIMI",
+                "mediaName": "Boğazlıyan Çağlayan Gazetesi"
+            },
+            {
+                "date": "2016-12-05",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.01380185,
+                        "name": "Sportsnet Reklam Ajansı",
+                        "sci": 2016120001770361,
+                        "id": 10765,
+                        "sample": "occasionally tempers getfrayed in theface offrazzled colleagues and demanding resort clients. SPORTS NHL Hockey/ ll:30am (<font class=\"kPri\" onclick=\"kClick(this);\">SportsNET</font>) Washington Capitals at Tampa Bay Lightııing. English Premier League Soccer / 2:55pm (NBCSP) Middlesbrough FCvs Hull"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001770361,
+                "media": 8539,
+                "idx": 56,
+                "title": "TV MONDAY",
+                "mediaName": "The Washington Times"
+            },
+            {
+                "date": "2016-12-05",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.00112548,
+                        "name": "Sportsnet Reklam Ajansı",
+                        "sci": 2016120001777701,
+                        "id": 10765,
+                        "sample": "OutFront\tAnderson Cooper 360\tAnderson Cooper 360\tCNN Tonight\tCNN Tonight Comcast <font class=\"kPri\" onclick=\"kClick(this);\">SportsNet</font>\tNHL Hockey: Buffalo Sabres at Washington Capitals (Live)\tCaps\tSportsTalk\t<font class=\"kPri\" onclick=\"kClick(this);\">SportsNet</font>\tRedskins\tHarbaugh Comedy Central\tFuturama lFuturama\tSouth Park l South Park"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001777701,
+                "media": 8472,
+                "idx": 57,
+                "title": "TELEVISION",
+                "mediaName": "The Washington Post"
+            },
+            {
+                "date": "2016-12-06",
+                "score": 0,
+                "access": false,
+                "brands": [
+                    {
+                        "score": 0.02853629,
+                        "name": "Tek Medya",
+                        "sci": 2016120001804781,
+                        "id": 42254,
+                        "sample": "temasıyla İstanbul'da yapılacak. Türkiye Radyo Televizyon Kurumundan (TRT) yapılan açıklamada, Türkiye'nin çocuk odaklı <font class=\"kPri\" onclick=\"kClick(this);\">tek medya</font> konferansı \"TRT Uluslararası Çocuk Medyası Konferansı\"mn sektörün ihtiyaçlarına katkı sağlamayı sürdürdüğü belirtildi"
+                    }
+                ],
+                "clipCount": 1,
+                "id": 2016120001804781,
+                "media": 4276,
+                "idx": 58,
+                "title": "TRT ÇOCUK MEDYASI KONFERANSI 6-7 ARALIK'TA",
+                "mediaName": "Niğde Haber"
+            }
+        ],
+        "menus": [
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "0": 5
+                                    },
+                                    {
+                                        "1": 18
+                                    }
+                                ],
+                                "id": 3593,
+                                "label": "MTM Medya Takip Merkezi"
+                            }
+                        ],
+                        "docCount": 2,
+                        "id": 51391,
+                        "label": "MTM Medya Takip Merkezi"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "0": 8
+                                    },
+                                    {
+                                        "1": 14
+                                    },
+                                    {
+                                        "2": 15
+                                    },
+                                    {
+                                        "3": 19
+                                    },
+                                    {
+                                        "4": 26
+                                    },
+                                    {
+                                        "5": 28
+                                    },
+                                    {
+                                        "6": 31
+                                    },
+                                    {
+                                        "7": 36
+                                    },
+                                    {
+                                        "8": 42
+                                    },
+                                    {
+                                        "9": 50
+                                    },
+                                    {
+                                        "10": 55
+                                    }
+                                ],
+                                "id": 120,
+                                "label": "Ajans Press"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 4
+                                    },
+                                    {
+                                        "1": 16
+                                    },
+                                    {
+                                        "2": 30
+                                    },
+                                    {
+                                        "3": 32
+                                    },
+                                    {
+                                        "4": 35
+                                    },
+                                    {
+                                        "5": 38
+                                    },
+                                    {
+                                        "6": 40
+                                    }
+                                ],
+                                "id": 2592,
+                                "label": "Interpress"
+                            }
+                        ],
+                        "docCount": 18,
+                        "id": 51392,
+                        "label": "Rakipler"
+                    }
+                ],
+                "docCount": 20,
+                "id": 6428,
+                "label": "MTM Medya Takip Merkezi"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "0": 53
+                                    }
+                                ],
+                                "id": 608,
+                                "label": "Azizoğlu Halkla İlişkiler"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 6
+                                    }
+                                ],
+                                "id": 5538,
+                                "label": "IPRA Uluslararası Halkla İlişkiler Derneği"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 7
+                                    }
+                                ],
+                                "id": 44596,
+                                "label": "Hill + Knowlton Strategies"
+                            }
+                        ],
+                        "docCount": 3,
+                        "id": 51393,
+                        "label": "Halkla İlişkiler"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "0": 24
+                                    }
+                                ],
+                                "id": 4552,
+                                "label": "Repaş"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 39
+                                    },
+                                    {
+                                        "1": 52
+                                    }
+                                ],
+                                "id": 37134,
+                                "label": "Zenith Medya"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 41
+                                    },
+                                    {
+                                        "1": 54
+                                    }
+                                ],
+                                "id": 37148,
+                                "label": "Medya Hizmetleri"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 20
+                                    },
+                                    {
+                                        "1": 22
+                                    },
+                                    {
+                                        "2": 58
+                                    }
+                                ],
+                                "id": 42254,
+                                "label": "Tek Medya"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 34
+                                    },
+                                    {
+                                        "1": 37
+                                    },
+                                    {
+                                        "2": 43
+                                    }
+                                ],
+                                "id": 121043,
+                                "label": "QNET"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 29
+                                    }
+                                ],
+                                "id": 130859,
+                                "label": "IAB Avrupa"
+                            }
+                        ],
+                        "docCount": 12,
+                        "id": 51394,
+                        "label": "Medya Planlama & Satınalma"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "0": 8
+                                    },
+                                    {
+                                        "1": 14
+                                    },
+                                    {
+                                        "2": 15
+                                    },
+                                    {
+                                        "3": 19
+                                    },
+                                    {
+                                        "4": 26
+                                    },
+                                    {
+                                        "5": 28
+                                    },
+                                    {
+                                        "6": 31
+                                    },
+                                    {
+                                        "7": 36
+                                    },
+                                    {
+                                        "8": 42
+                                    },
+                                    {
+                                        "9": 50
+                                    },
+                                    {
+                                        "10": 55
+                                    }
+                                ],
+                                "id": 120,
+                                "label": "Ajans Press"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 4
+                                    },
+                                    {
+                                        "1": 16
+                                    },
+                                    {
+                                        "2": 30
+                                    },
+                                    {
+                                        "3": 32
+                                    },
+                                    {
+                                        "4": 35
+                                    },
+                                    {
+                                        "5": 38
+                                    },
+                                    {
+                                        "6": 40
+                                    }
+                                ],
+                                "id": 2592,
+                                "label": "Interpress"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 5
+                                    },
+                                    {
+                                        "1": 18
+                                    }
+                                ],
+                                "id": 3593,
+                                "label": "MTM Medya Takip Merkezi"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 51
+                                    }
+                                ],
+                                "id": 5894,
+                                "label": "RIAK Radyo İzleme Ve Araştırma Kurulu"
+                            }
+                        ],
+                        "docCount": 21,
+                        "id": 51395,
+                        "label": "Medyatakip ve Ölçümleme"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "0": 56
+                                    },
+                                    {
+                                        "1": 57
+                                    }
+                                ],
+                                "id": 10765,
+                                "label": "Sportsnet Reklam Ajansı"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 2
+                                    }
+                                ],
+                                "id": 10796,
+                                "label": "Fikir Merkezi Reklamcılık"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 13
+                                    },
+                                    {
+                                        "1": 44
+                                    }
+                                ],
+                                "id": 10835,
+                                "label": "Dijital Reklam"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 46
+                                    },
+                                    {
+                                        "1": 47
+                                    },
+                                    {
+                                        "2": 48
+                                    }
+                                ],
+                                "id": 62658,
+                                "label": "Konkur Reklamcılar Derneği"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 0
+                                    },
+                                    {
+                                        "1": 3
+                                    }
+                                ],
+                                "id": 64376,
+                                "label": "Billboard"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 9
+                                    },
+                                    {
+                                        "1": 10
+                                    },
+                                    {
+                                        "2": 11
+                                    },
+                                    {
+                                        "3": 12
+                                    },
+                                    {
+                                        "4": 17
+                                    },
+                                    {
+                                        "5": 21
+                                    },
+                                    {
+                                        "6": 23
+                                    },
+                                    {
+                                        "7": 33
+                                    },
+                                    {
+                                        "8": 45
+                                    }
+                                ],
+                                "id": 64377,
+                                "label": "Reklam Panosu"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 49
+                                    }
+                                ],
+                                "id": 64379,
+                                "label": "Megalight"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 9
+                                    },
+                                    {
+                                        "1": 10
+                                    },
+                                    {
+                                        "2": 11
+                                    },
+                                    {
+                                        "3": 12
+                                    },
+                                    {
+                                        "4": 17
+                                    },
+                                    {
+                                        "5": 33
+                                    },
+                                    {
+                                        "6": 45
+                                    }
+                                ],
+                                "id": 78584,
+                                "label": "Digital Reklam"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 1
+                                    }
+                                ],
+                                "id": 83829,
+                                "label": "Kristal Elma Türkiye Reklam Ödülleri"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "0": 25
+                                    },
+                                    {
+                                        "1": 27
+                                    }
+                                ],
+                                "id": 112579,
+                                "label": "Özlem Ayaz"
+                            }
+                        ],
+                        "docCount": 23,
+                        "id": 51396,
+                        "label": "Reklamcılık"
+                    }
+                ],
+                "docCount": 59,
+                "id": 6429,
+                "label": "Sektörler"
+            }
+        ]
+    },
+    "status": "ok"
+}
