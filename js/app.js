@@ -52,10 +52,14 @@ mtmApp.directive("mtmMenu", function() {
                     }
                 });
 
-                if(filteredDocs.length) {
+                if (filteredDocs.length) {
                     $rootScope.currentDocs = filteredDocs;
-                    $("html, body").animate({
+                    $(".mainContent").animate({
                         scrollTop: 0,
+                    }, {
+                        complete: function() {
+                            $("#offcanvasmenubutton").is(":visible") && $("#offcanvasmenubutton").click();
+                        }
                     }, "fast");
                 }
 
