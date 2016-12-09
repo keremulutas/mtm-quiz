@@ -18,21 +18,30 @@ mtmApp.controller("NewsListController", ["$rootScope", "$scope", "$http", functi
 mtmApp.directive("mtmMenu", function() {
     return {
         replace: true,
-        template: '<ul class="nav nav-pills nav-stacked {{ isCollapsible ? \'collapse\' : \'\' }}"><li ng-repeat="t in tree" ng-if="t.label"><a href="#" data-toggle="collapse" data-target="#drilldown-{{t.id}}" data-source-id="{{t.id}}" ng-click="go($event)">{{t.label}}</a><div style="padding-left: 20px;"><mtm-menu id="drilldown-{{t.id}}" is-collapsible="true" tree="t.children"></mtm-menu></div></li></ul>',
+        template: '<ul class="nav nav-pills nav-stacked {{ isCollapsible ? \'collapse\' : \'\' }}"><li ng-repeat="t in tree" ng-if="t.label"><a href="#" data-toggle="collapse" data-target="#drilldown-{{t.id}}" data-source-id="{{t.id}}" ng-click="go($event)">{{t.label}} <span class="badge" ng-if="getDocCount(t.id) > 0">{{getDocCount(t.id)}}</span></a><div style="padding-left: 20px;"><mtm-menu id="drilldown-{{t.id}}" is-collapsible="true" tree="t.children"></mtm-menu></div></li></ul>',
         scope: {
             tree: "=",
             isCollapsible: "=",
         },
         controller: function($rootScope, $scope) {
+            $scope.getDocCount = function(id) {
+                var count = 0;
+                $rootScope.docs.forEach(function(doc, idx) {
+                    if (doc.brands[0].id === id) {
+                        count++;
+                    }
+                });
+
+                return count;
+            };
+
             $scope.go = function($evt) {
-                // $evt.preventDefault();
-                // $evt.stopPropagation();
                 var elem = $($evt.target);
                 if (elem.hasClass("active")) {
                     console.warn("same link clicked.");
                     return;
                 }
-                $("#menuWrapper").find("li a.active").removeClass("active");
+                $("#sidebar").find("li a.active").removeClass("active");
                 elem.addClass("active");
 
                 var menuId = elem.data("sourceId");
@@ -55,4 +64,10 @@ mtmApp.directive("mtmMenu", function() {
             };
         },
     };
+});
+
+$(document).ready(function() {
+    $("[data-toggle='offcanvas']").click(function() {
+        $(".row-offcanvas").toggleClass("active");
+    });
 });
