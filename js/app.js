@@ -6,7 +6,7 @@ mtmApp.controller("NewsListController", ["$rootScope", "$scope", "$http", functi
 
     $http({
         method: "GET",
-        url: "/js/quiz.json",
+        url: "js/quiz.json",
     }).then(function successCallback(response) {
         $rootScope.docs = response.data.result.docs;
         $scope.menus = response.data.result.menus;
@@ -39,7 +39,8 @@ mtmApp.directive("mtmMenu", function() {
                 var elem = $($evt.target);
                 if (elem.hasClass("active")) {
                     console.warn("same link clicked.");
-                    return;
+                    $evt.preventDefault();
+                    return false;
                 }
                 $("#sidebar").find("li a.active").removeClass("active");
                 elem.addClass("active");
